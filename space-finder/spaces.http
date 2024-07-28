@@ -1,0 +1,4 @@
+GET  https://yy15le98sa.execute-api.us-east-1.amazonaws.com/prod/spaces
+###
+
+POST  https://yy15le98sa.execute-api.us-east-1.amazonaws.com/prod/spaces
